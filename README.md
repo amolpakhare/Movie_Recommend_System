@@ -26,7 +26,7 @@ pip install numpy pandas scikit-learn nltk streamlit
 
 Clone the Repository
 
-git clone https://github.com/yourusername/MovieRecommendSystem.git
+git clone https://github.com/amolpakhare/Movie_Recommend_System/tree/main
 
 cd MovieRecommendSystem
 
